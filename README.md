@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobinVeziroglu
-- 👀 I’m interested in ML & data science, strive to improve my skills in Python.
+- 👀 I’m interested in ML & data science. The programming language I'll use is mainly Python.
 
 
 <!---
